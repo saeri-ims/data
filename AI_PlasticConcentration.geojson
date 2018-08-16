@@ -1,77 +1,13 @@
 {
-  "type": "FeatureCollection",
-  "name": "AI_PlasticConcentration",
-  "features": [{
-      "type": "Feature",
-      "properties": {
-        "Site": "1",
-        "Mean": 3.2,
-        "SE": 1.31909059582729
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-14.41398, -7.97146]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Site": "2",
-        "Mean": 8.0,
-        "SE": 2.5099800796022298
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-14.4127, -7.96586]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Site": "3",
-        "Mean": 7.8,
-        "SE": 3.8910152916687402
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-14.30828, -7.93645]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Site": "4",
-        "Mean": 4.0,
-        "SE": 1.30384048104053
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-14.34095, -7.91233]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Site": "Long",
-        "Mean": 0.4,
-        "SE": 0.24494897427831799
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-14.40909, -7.92378]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Site": "English",
-        "Mean": 4.2,
-        "SE": 2.0591260281974
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-14.3815, -7.8932]
-      }
-    }
-  ]
+"name":"AI_PlasticConcentration",
+"type":"FeatureCollection",
+"features":
+[
+{"type":"Feature","properties":{"Site":"1","Mean":3.2,"SE":1.31909059582729},"geometry":{"type":"Point","coordinates":[-14.41398,-7.97146]}},
+{"type":"Feature","properties":{"Site":"2","Mean":8.0,"SE":2.5099800796022298},"geometry":{"type":"Point","coordinates":[-14.4127,-7.96586]}},
+{"type":"Feature","properties":{"Site":"3","Mean":7.8,"SE":3.8910152916687402},"geometry":{"type":"Point","coordinates":[-14.30828,-7.93645]}},
+{"type":"Feature","properties":{"Site":"4","Mean":4.0,"SE":1.30384048104053},"geometry":{"type":"Point","coordinates":[-14.34095,-7.91233]}},
+{"type":"Feature","properties":{"Site":"Long","Mean":0.4,"SE":0.24494897427831799},"geometry":{"type":"Point","coordinates":[-14.40909,-7.92378]}},
+{"type":"Feature","properties":{"Site":"English","Mean":4.2,"SE":2.0591260281974},"geometry":{"type":"Point","coordinates":[-14.3815,-7.8932]}}
+]
 }
