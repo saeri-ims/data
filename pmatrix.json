@@ -924,8 +924,8 @@
     },
     "001-029": {
       "REC_SIZE": 5.0,
-      "H_OFFSET": 0.700,
-      "V_OFFSET": 1.730,
+      "H_OFFSET": -3.65,
+      "V_OFFSET": 1.70,
       "S_RECTFN": 0.176
     },
     "130-112": {
@@ -1024,8 +1024,8 @@
     },
     "039-001": {
       "REC_SIZE": 5.72,
-      "H_OFFSET": 0,
-      "V_OFFSET": 0,
+      "H_OFFSET": 1.60,
+      "V_OFFSET": -2,
       "S_RECTFN": 0
     },
     "076-108": {
