@@ -641,10 +641,9 @@
       "S_RECTFN": 0.176
     },
     "021-014": {
-      "REC_SIZE": 4.46,
-      "H_OFFSET": 0.42,
-      "V_OFFSET": 0.715,
-      "S_RECTFN": 0.176
+      "H_OFFSET": 2.57,
+      "V_OFFSET": -0.60,
+      "A_RECTFN": 8.67
     },
     "034-042": {
       "REC_SIZE": 4.46,
@@ -683,9 +682,8 @@
       "S_RECTFN": 0.176
     },
     "063-066": {
-      "REC_SIZE": 4.46,
-      "H_OFFSET": 0.42,
-      "V_OFFSET": 0.715,
+      "H_OFFSET": 0,
+      "V_OFFSET": 0.5,
       "S_RECTFN": 0.176
     },
     "028-030": {
