@@ -1,0 +1,665 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "start": "2018-09-23T19:28:15.273Z",
+        "end": "2018-09-23T19:30:02.388Z",
+        "today": "2018-09-23",
+        "phonenumber": null,
+        "imei": "860152030885469",
+        "acknowledge_test": "OK",
+        "media_example": null,
+        "date_time": "2018-09-23T19:28:00.000Z",
+        "waypoint": "001",
+        "notes_geomorph": "Flat",
+        "yes_no": "no",
+        "level": "world_view",
+        "habitat_type1": null,
+        "habitat_type2": "neutral_grassland",
+        "habitat_type3": null,
+        "patch_size": 25,
+        "scale": null,
+        "mosaic1": null,
+        "coverage1": null,
+        "m_patch_size1": null,
+        "mosaic2": null,
+        "coverage2": null,
+        "integer": null,
+        "mosaic3": null,
+        "coverage3": null,
+        "m_patch_size3": null,
+        "mosaic4": null,
+        "coverage4": null,
+        "m_patch_size4": null,
+        "total_coverage": null,
+        "sum_coverage": null,
+        "mosaic5": null,
+        "coverage5": null,
+        "m_patch_size5": null,
+        "mosaic6": null,
+        "coverage6": null,
+        "m_patch_size6": null,
+        "mosaic7": null,
+        "coverage7": null,
+        "m_patch_size7": null,
+        "mosaic8": null,
+        "coverage8": null,
+        "m_patch_size8": null,
+        "total_coverage2": null,
+        "sum_coverage2": null,
+        "notes_habitat": "Coastal green next to west of Darwin house",
+        "confidence_level": "medium",
+        "picture_ground": {
+          "filename": "1537730955278.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A13402787-d3d6-4f6b-b270-2fb331ca42db%5D%2Fphotos%3Apicture_ground"
+        },
+        "picture_north": {
+          "filename": "1537730962448.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A13402787-d3d6-4f6b-b270-2fb331ca42db%5D%2Fphotos%3Apicture_north"
+        },
+        "picture_east": {
+          "filename": "1537730970061.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A13402787-d3d6-4f6b-b270-2fb331ca42db%5D%2Fphotos%3Apicture_east"
+        },
+        "picture_south": {
+          "filename": "1537730976509.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A13402787-d3d6-4f6b-b270-2fb331ca42db%5D%2Fphotos%3Apicture_south"
+        },
+        "picture_west": {
+          "filename": "1537730982430.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A13402787-d3d6-4f6b-b270-2fb331ca42db%5D%2Fphotos%3Apicture_west"
+        },
+        "instanceID": "uuid:13402787-d3d6-4f6b-b270-2fb331ca42db"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.958536, -51.805597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start": "2018-09-23T19:31:59.351Z",
+        "end": "2018-09-23T19:33:41.488Z",
+        "today": "2018-09-23",
+        "phonenumber": null,
+        "imei": "860152030885469",
+        "acknowledge_test": "OK",
+        "media_example": null,
+        "date_time": "2018-09-23T19:32:00.000Z",
+        "waypoint": "2",
+        "notes_geomorph": "Flat",
+        "yes_no": "no",
+        "level": "world_view",
+        "habitat_type1": null,
+        "habitat_type2": "gorse",
+        "habitat_type3": null,
+        "patch_size": 7,
+        "scale": null,
+        "mosaic1": null,
+        "coverage1": null,
+        "m_patch_size1": null,
+        "mosaic2": null,
+        "coverage2": null,
+        "integer": null,
+        "mosaic3": null,
+        "coverage3": null,
+        "m_patch_size3": null,
+        "mosaic4": null,
+        "coverage4": null,
+        "m_patch_size4": null,
+        "total_coverage": null,
+        "sum_coverage": null,
+        "mosaic5": null,
+        "coverage5": null,
+        "m_patch_size5": null,
+        "mosaic6": null,
+        "coverage6": null,
+        "m_patch_size6": null,
+        "mosaic7": null,
+        "coverage7": null,
+        "m_patch_size7": null,
+        "mosaic8": null,
+        "coverage8": null,
+        "m_patch_size8": null,
+        "total_coverage2": null,
+        "sum_coverage2": null,
+        "notes_habitat": "Gorse patch nw of Darwin house",
+        "confidence_level": "high",
+        "picture_ground": {
+          "filename": "1537731182023.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A5f72a352-1902-47f6-9126-f1d5fe70f584%5D%2Fphotos%3Apicture_ground"
+        },
+        "picture_north": {
+          "filename": "1537731192615.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A5f72a352-1902-47f6-9126-f1d5fe70f584%5D%2Fphotos%3Apicture_north"
+        },
+        "picture_east": {
+          "filename": "1537731206786.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A5f72a352-1902-47f6-9126-f1d5fe70f584%5D%2Fphotos%3Apicture_east"
+        },
+        "picture_south": {
+          "filename": "1537731212989.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A5f72a352-1902-47f6-9126-f1d5fe70f584%5D%2Fphotos%3Apicture_south"
+        },
+        "picture_west": {
+          "filename": "1537731218834.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A5f72a352-1902-47f6-9126-f1d5fe70f584%5D%2Fphotos%3Apicture_west"
+        },
+        "instanceID": "uuid:5f72a352-1902-47f6-9126-f1d5fe70f584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.958291, -51.805476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start": "2018-09-23T19:35:48.437Z",
+        "end": "2018-09-23T19:38:38.417Z",
+        "today": "2018-09-23",
+        "phonenumber": null,
+        "imei": "860152030885469",
+        "acknowledge_test": "OK",
+        "media_example": null,
+        "date_time": "2018-09-23T19:35:00.000Z",
+        "waypoint": "3",
+        "notes_geomorph": "Sloping shore - shedding North",
+        "yes_no": "no",
+        "level": "world_view",
+        "habitat_type1": null,
+        "habitat_type2": "littoral_coarse_sediment",
+        "habitat_type3": null,
+        "patch_size": 20,
+        "scale": null,
+        "mosaic1": null,
+        "coverage1": null,
+        "m_patch_size1": null,
+        "mosaic2": null,
+        "coverage2": null,
+        "integer": null,
+        "mosaic3": null,
+        "coverage3": null,
+        "m_patch_size3": null,
+        "mosaic4": null,
+        "coverage4": null,
+        "m_patch_size4": null,
+        "total_coverage": null,
+        "sum_coverage": null,
+        "mosaic5": null,
+        "coverage5": null,
+        "m_patch_size5": null,
+        "mosaic6": null,
+        "coverage6": null,
+        "m_patch_size6": null,
+        "mosaic7": null,
+        "coverage7": null,
+        "m_patch_size7": null,
+        "mosaic8": null,
+        "coverage8": null,
+        "m_patch_size8": null,
+        "total_coverage2": null,
+        "sum_coverage2": null,
+        "notes_habitat": "Linear feature - gravel shore",
+        "confidence_level": "high",
+        "picture_ground": {
+          "filename": "1537731473946.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A35260aae-b350-4ab8-81e5-73ef81b6e234%5D%2Fphotos%3Apicture_ground"
+        },
+        "picture_north": {
+          "filename": "1537731492276.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A35260aae-b350-4ab8-81e5-73ef81b6e234%5D%2Fphotos%3Apicture_north"
+        },
+        "picture_east": {
+          "filename": "1537731503522.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A35260aae-b350-4ab8-81e5-73ef81b6e234%5D%2Fphotos%3Apicture_east"
+        },
+        "picture_south": {
+          "filename": "1537731510157.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A35260aae-b350-4ab8-81e5-73ef81b6e234%5D%2Fphotos%3Apicture_south"
+        },
+        "picture_west": {
+          "filename": "1537731516146.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A35260aae-b350-4ab8-81e5-73ef81b6e234%5D%2Fphotos%3Apicture_west"
+        },
+        "instanceID": "uuid:35260aae-b350-4ab8-81e5-73ef81b6e234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.957928, -51.805444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start": "2018-09-23T19:40:11.972Z",
+        "end": "2018-09-23T19:42:00.435Z",
+        "today": "2018-09-23",
+        "phonenumber": null,
+        "imei": "860152030885469",
+        "acknowledge_test": "OK",
+        "media_example": null,
+        "date_time": "2018-09-23T19:40:00.000Z",
+        "waypoint": "4",
+        "notes_geomorph": "Flat",
+        "yes_no": "no",
+        "level": "world_view",
+        "habitat_type1": null,
+        "habitat_type2": "gorse",
+        "habitat_type3": null,
+        "patch_size": 10,
+        "scale": null,
+        "mosaic1": null,
+        "coverage1": null,
+        "m_patch_size1": null,
+        "mosaic2": null,
+        "coverage2": null,
+        "integer": null,
+        "mosaic3": null,
+        "coverage3": null,
+        "m_patch_size3": null,
+        "mosaic4": null,
+        "coverage4": null,
+        "m_patch_size4": null,
+        "total_coverage": null,
+        "sum_coverage": null,
+        "mosaic5": null,
+        "coverage5": null,
+        "m_patch_size5": null,
+        "mosaic6": null,
+        "coverage6": null,
+        "m_patch_size6": null,
+        "mosaic7": null,
+        "coverage7": null,
+        "m_patch_size7": null,
+        "mosaic8": null,
+        "coverage8": null,
+        "m_patch_size8": null,
+        "total_coverage2": null,
+        "sum_coverage2": null,
+        "notes_habitat": "Large gorse patch",
+        "confidence_level": "high",
+        "picture_ground": {
+          "filename": "1537731688676.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A050adfc7-8469-4862-8e4a-410fe33c8030%5D%2Fphotos%3Apicture_ground"
+        },
+        "picture_north": {
+          "filename": "1537731697971.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A050adfc7-8469-4862-8e4a-410fe33c8030%5D%2Fphotos%3Apicture_north"
+        },
+        "picture_east": {
+          "filename": "1537731704379.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A050adfc7-8469-4862-8e4a-410fe33c8030%5D%2Fphotos%3Apicture_east"
+        },
+        "picture_south": {
+          "filename": "1537731712871.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A050adfc7-8469-4862-8e4a-410fe33c8030%5D%2Fphotos%3Apicture_south"
+        },
+        "picture_west": {
+          "filename": "1537731717829.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A050adfc7-8469-4862-8e4a-410fe33c8030%5D%2Fphotos%3Apicture_west"
+        },
+        "instanceID": "uuid:050adfc7-8469-4862-8e4a-410fe33c8030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.957823, -51.805557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start": "2018-09-23T19:44:02.611Z",
+        "end": "2018-09-23T19:45:41.929Z",
+        "today": "2018-09-23",
+        "phonenumber": null,
+        "imei": "860152030885469",
+        "acknowledge_test": "OK",
+        "media_example": null,
+        "date_time": "2018-09-23T19:44:00.000Z",
+        "waypoint": "5",
+        "notes_geomorph": "Flat",
+        "yes_no": "no",
+        "level": "world_view",
+        "habitat_type1": null,
+        "habitat_type2": "neutral_grassland",
+        "habitat_type3": null,
+        "patch_size": 20,
+        "scale": null,
+        "mosaic1": null,
+        "coverage1": null,
+        "m_patch_size1": null,
+        "mosaic2": null,
+        "coverage2": null,
+        "integer": null,
+        "mosaic3": null,
+        "coverage3": null,
+        "m_patch_size3": null,
+        "mosaic4": null,
+        "coverage4": null,
+        "m_patch_size4": null,
+        "total_coverage": null,
+        "sum_coverage": null,
+        "mosaic5": null,
+        "coverage5": null,
+        "m_patch_size5": null,
+        "mosaic6": null,
+        "coverage6": null,
+        "m_patch_size6": null,
+        "mosaic7": null,
+        "coverage7": null,
+        "m_patch_size7": null,
+        "mosaic8": null,
+        "coverage8": null,
+        "m_patch_size8": null,
+        "total_coverage2": null,
+        "sum_coverage2": null,
+        "notes_habitat": "Coastal green to East of Darwin house",
+        "confidence_level": "high",
+        "picture_ground": {
+          "filename": "1537731898577.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A71f6d91b-259d-4bc0-a51f-ece909b5af0e%5D%2Fphotos%3Apicture_ground"
+        },
+        "picture_north": {
+          "filename": "1537731920799.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A71f6d91b-259d-4bc0-a51f-ece909b5af0e%5D%2Fphotos%3Apicture_north"
+        },
+        "picture_east": {
+          "filename": "1537731928319.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A71f6d91b-259d-4bc0-a51f-ece909b5af0e%5D%2Fphotos%3Apicture_east"
+        },
+        "picture_south": {
+          "filename": "1537731933751.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A71f6d91b-259d-4bc0-a51f-ece909b5af0e%5D%2Fphotos%3Apicture_south"
+        },
+        "picture_west": {
+          "filename": "1537731939562.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A71f6d91b-259d-4bc0-a51f-ece909b5af0e%5D%2Fphotos%3Apicture_west"
+        },
+        "instanceID": "uuid:71f6d91b-259d-4bc0-a51f-ece909b5af0e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.957481, -51.805862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start": "2018-09-23T19:49:46.555Z",
+        "end": "2018-09-23T19:51:38.370Z",
+        "today": "2018-09-23",
+        "phonenumber": null,
+        "imei": "860152030885469",
+        "acknowledge_test": "OK",
+        "media_example": null,
+        "date_time": "2018-09-23T19:49:00.000Z",
+        "waypoint": "6",
+        "notes_geomorph": "Flat",
+        "yes_no": "no",
+        "level": "world_view",
+        "habitat_type1": null,
+        "habitat_type2": "woodland_conifer",
+        "habitat_type3": null,
+        "patch_size": 10,
+        "scale": null,
+        "mosaic1": null,
+        "coverage1": null,
+        "m_patch_size1": null,
+        "mosaic2": null,
+        "coverage2": null,
+        "integer": null,
+        "mosaic3": null,
+        "coverage3": null,
+        "m_patch_size3": null,
+        "mosaic4": null,
+        "coverage4": null,
+        "m_patch_size4": null,
+        "total_coverage": null,
+        "sum_coverage": null,
+        "mosaic5": null,
+        "coverage5": null,
+        "m_patch_size5": null,
+        "mosaic6": null,
+        "coverage6": null,
+        "m_patch_size6": null,
+        "mosaic7": null,
+        "coverage7": null,
+        "m_patch_size7": null,
+        "mosaic8": null,
+        "coverage8": null,
+        "m_patch_size8": null,
+        "total_coverage2": null,
+        "sum_coverage2": null,
+        "notes_habitat": "Clump of conifers next to Darwin house",
+        "confidence_level": "high",
+        "picture_ground": {
+          "filename": "1537732238765.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3Ad6eca1db-a06a-41db-8be9-f41e38f36bd1%5D%2Fphotos%3Apicture_ground"
+        },
+        "picture_north": {
+          "filename": "1537732272344.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3Ad6eca1db-a06a-41db-8be9-f41e38f36bd1%5D%2Fphotos%3Apicture_north"
+        },
+        "picture_east": {
+          "filename": "1537732280309.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3Ad6eca1db-a06a-41db-8be9-f41e38f36bd1%5D%2Fphotos%3Apicture_east"
+        },
+        "picture_south": {
+          "filename": "1537732288236.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3Ad6eca1db-a06a-41db-8be9-f41e38f36bd1%5D%2Fphotos%3Apicture_south"
+        },
+        "picture_west": {
+          "filename": "1537732295088.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3Ad6eca1db-a06a-41db-8be9-f41e38f36bd1%5D%2Fphotos%3Apicture_west"
+        },
+        "instanceID": "uuid:d6eca1db-a06a-41db-8be9-f41e38f36bd1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.957294, -51.806676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start": "2018-09-23T19:54:09.384Z",
+        "end": "2018-09-23T19:55:36.477Z",
+        "today": "2018-09-23",
+        "phonenumber": null,
+        "imei": "860152030885469",
+        "acknowledge_test": "OK",
+        "media_example": null,
+        "date_time": "2018-09-23T19:54:00.000Z",
+        "waypoint": "7",
+        "notes_geomorph": "Shedding to East",
+        "yes_no": "no",
+        "level": "world_view",
+        "habitat_type1": null,
+        "habitat_type2": "gorse",
+        "habitat_type3": null,
+        "patch_size": 10,
+        "scale": null,
+        "mosaic1": null,
+        "coverage1": null,
+        "m_patch_size1": null,
+        "mosaic2": null,
+        "coverage2": null,
+        "integer": null,
+        "mosaic3": null,
+        "coverage3": null,
+        "m_patch_size3": null,
+        "mosaic4": null,
+        "coverage4": null,
+        "m_patch_size4": null,
+        "total_coverage": null,
+        "sum_coverage": null,
+        "mosaic5": null,
+        "coverage5": null,
+        "m_patch_size5": null,
+        "mosaic6": null,
+        "coverage6": null,
+        "m_patch_size6": null,
+        "mosaic7": null,
+        "coverage7": null,
+        "m_patch_size7": null,
+        "mosaic8": null,
+        "coverage8": null,
+        "m_patch_size8": null,
+        "total_coverage2": null,
+        "sum_coverage2": null,
+        "notes_habitat": "Large patch of gorse at Darwin",
+        "confidence_level": "high",
+        "picture_ground": {
+          "filename": "1537732506420.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3Acee3b7c4-1ba8-4c59-995e-b686f93daef8%5D%2Fphotos%3Apicture_ground"
+        },
+        "picture_north": {
+          "filename": "1537732514470.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3Acee3b7c4-1ba8-4c59-995e-b686f93daef8%5D%2Fphotos%3Apicture_north"
+        },
+        "picture_east": {
+          "filename": "1537732520082.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3Acee3b7c4-1ba8-4c59-995e-b686f93daef8%5D%2Fphotos%3Apicture_east"
+        },
+        "picture_south": {
+          "filename": "1537732527330.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3Acee3b7c4-1ba8-4c59-995e-b686f93daef8%5D%2Fphotos%3Apicture_south"
+        },
+        "picture_west": {
+          "filename": "1537732533813.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3Acee3b7c4-1ba8-4c59-995e-b686f93daef8%5D%2Fphotos%3Apicture_west"
+        },
+        "instanceID": "uuid:cee3b7c4-1ba8-4c59-995e-b686f93daef8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.956867, -51.807291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start": "2018-09-23T19:58:19.849Z",
+        "end": "2018-09-23T19:59:52.687Z",
+        "today": "2018-09-23",
+        "phonenumber": null,
+        "imei": "860152030885469",
+        "acknowledge_test": "OK",
+        "media_example": null,
+        "date_time": "2018-09-23T19:58:00.000Z",
+        "waypoint": "8",
+        "notes_geomorph": "Flat",
+        "yes_no": "no",
+        "level": "world_view",
+        "habitat_type1": null,
+        "habitat_type2": "gorse",
+        "habitat_type3": null,
+        "patch_size": 20,
+        "scale": null,
+        "mosaic1": null,
+        "coverage1": null,
+        "m_patch_size1": null,
+        "mosaic2": null,
+        "coverage2": null,
+        "integer": null,
+        "mosaic3": null,
+        "coverage3": null,
+        "m_patch_size3": null,
+        "mosaic4": null,
+        "coverage4": null,
+        "m_patch_size4": null,
+        "total_coverage": null,
+        "sum_coverage": null,
+        "mosaic5": null,
+        "coverage5": null,
+        "m_patch_size5": null,
+        "mosaic6": null,
+        "coverage6": null,
+        "m_patch_size6": null,
+        "mosaic7": null,
+        "coverage7": null,
+        "m_patch_size7": null,
+        "mosaic8": null,
+        "coverage8": null,
+        "m_patch_size8": null,
+        "total_coverage2": null,
+        "sum_coverage2": null,
+        "notes_habitat": "Gorse patch on top of hill by Darwin",
+        "confidence_level": "high",
+        "picture_ground": {
+          "filename": "1537732764183.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A81c08768-7708-4d3d-8194-f2c198e097e0%5D%2Fphotos%3Apicture_ground"
+        },
+        "picture_north": {
+          "filename": "1537732770630.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A81c08768-7708-4d3d-8194-f2c198e097e0%5D%2Fphotos%3Apicture_north"
+        },
+        "picture_east": {
+          "filename": "1537732777112.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A81c08768-7708-4d3d-8194-f2c198e097e0%5D%2Fphotos%3Apicture_east"
+        },
+        "picture_south": {
+          "filename": "1537732783340.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A81c08768-7708-4d3d-8194-f2c198e097e0%5D%2Fphotos%3Apicture_south"
+        },
+        "picture_west": {
+          "filename": "1537732790196.jpg",
+          "type": "image/jpeg",
+          "url": "http://ims-db.ims.fk:8080/ODKAggregate/view/binaryData?blobKey=fi_hab_survey_t5%5B%40version%3Dnull+and+%40uiVersion%3Dnull%5D%2Ffalklands_survey_online1%5B%40key%3Duuid%3A81c08768-7708-4d3d-8194-f2c198e097e0%5D%2Fphotos%3Apicture_west"
+        },
+        "instanceID": "uuid:81c08768-7708-4d3d-8194-f2c198e097e0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.957630, -51.807807]
+      }
+    }
+  ]}
